@@ -1,2 +1,2 @@
 # Meu primeiro projeto no HTLM e CSS. 
-https://alura-combos.vercel.app/
+Para visualizar o projeto: https://alura-combos.vercel.app/
